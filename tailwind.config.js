@@ -171,6 +171,9 @@ export default {
 				'9xl': '54px',
 				'10xl': '56px',
 			},
+			borderWidth: {
+				6: '6px',
+			},
 		},
 	},
 	plugins: [],
